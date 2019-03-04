@@ -3,7 +3,7 @@ This project aims to do classification to recognize movie genres by processing m
 
 Technologies used in this project are
 
+* Tensorflow
 * NLTK
 * One Hot Encoding
-* Existance, Count, Tf-Idf Methods
-* Tensorflow
+* Existence, Count, Tf-Idf Methods
